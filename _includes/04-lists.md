@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Do Crossfit :+1:
+- Play videogames :video_game:
+- Do Math :notebook:
+- Learning Languages :books:
+- Learning Ruby, Java, and so on :nerd_face:
