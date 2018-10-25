@@ -1,0 +1,1 @@
+- _Splat arguments_ are arguments preceded by a *, which tells the program that the method can receive **one or more arguments**.
