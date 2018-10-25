@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- _Splat arguments_ are arguments preceded by a *, which tells the program that the method can receive **one or more arguments**.
